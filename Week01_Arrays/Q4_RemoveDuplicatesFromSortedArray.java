@@ -1,8 +1,8 @@
-package Arrays;
+package Week01_Arrays;
 
 // TC: O(n); SC: O(1)
 
-class RemoveDuplicatesFromSortedArray {
+class Q4_RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
         int referencePointer = 0, n = nums.length;
 

@@ -1,8 +1,8 @@
 //TC: O(n), SC: O(1)
 
-package Arrays;
+package Week01_Arrays;
 
-class RotateArray {
+class Q1_RotateArray {
 
     void reverse(int nums[], int low, int high) {
         while (low < high) {

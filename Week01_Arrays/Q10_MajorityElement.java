@@ -1,9 +1,9 @@
 //TC: O(n) ; SC : O(n)
 
-package Arrays;
+package Week01_Arrays;
 import java.util.*;
 
-public class MajorityElement {
+public class Q10_MajorityElement {
     static int majorityElement(int a[], int size)
     {
         Map<Integer, Integer> map = new HashMap<>();

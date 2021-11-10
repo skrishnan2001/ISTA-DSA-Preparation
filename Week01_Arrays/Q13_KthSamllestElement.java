@@ -1,10 +1,10 @@
-package Arrays;
+package Week01_Arrays;
 
 import java.util.*;
 
 //TC: O(nlogk); SC: O(k)
 
-public class KthSamllestElement {
+public class Q13_KthSamllestElement {
     public static int kthSmallest(int[] arr, int l, int r, int k) 
     { 
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());

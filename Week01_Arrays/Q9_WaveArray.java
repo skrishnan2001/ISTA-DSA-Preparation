@@ -1,7 +1,7 @@
-package Arrays;
+package Week01_Arrays;
 import java.io.*;
 
-class WaveArray {
+class Q9_WaveArray {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

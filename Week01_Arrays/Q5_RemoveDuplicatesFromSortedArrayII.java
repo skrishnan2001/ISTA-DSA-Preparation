@@ -1,8 +1,8 @@
 // TC: O(n); SC: O(1)
 
-package Arrays;
+package Week01_Arrays;
 
-public class RemoveDuplicatesFromSortedArrayII {
+public class Q5_RemoveDuplicatesFromSortedArrayII {
     public int removeDuplicates(int[] nums) {
         int fast = 2, slow = 1;
         while(fast < nums.length)

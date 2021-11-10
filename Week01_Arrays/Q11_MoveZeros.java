@@ -1,7 +1,7 @@
-package Arrays;
+package Week01_Arrays;
 
 //TC: O(n) ; SC : O(1)
-public class MoveZeros {
+public class Q11_MoveZeros {
     public void moveZeroes(int[] nums) {
         int startPointer = 0;
         for (int element : nums) {

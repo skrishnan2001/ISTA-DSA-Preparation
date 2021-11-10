@@ -4,10 +4,10 @@
 
 import java.util.*;
 
-public class MaximumSubarraySum {
+public class Q2_MaximumSubarraySum {
     public static long maximumSum(List<Long> a, long m) {
         long maxSum = 0;
-        TreeSet<Long> prefix = new TreeSet<>(); //TreeSet in java works like a self-balanced tree BST
+        TreeSet<Long> prefix = new TreeSet<>(); //TreeSet in java works like a self-balanced BST
         long currSum = 0;
         for (int i = 0; i < a.size(); i++) {
             currSum = (currSum + a.get(i)) % m;

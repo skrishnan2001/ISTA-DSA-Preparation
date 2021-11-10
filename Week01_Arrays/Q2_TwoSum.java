@@ -1,10 +1,10 @@
 //TC: O(n) ; SC: O(n)
 
-package Arrays;
+package Week01_Arrays;
 
 import java.util.*;
 
-class TwoSum 
+class Q2_TwoSum 
 {
     public int[] twoSum(int[] nums, int target) 
     {

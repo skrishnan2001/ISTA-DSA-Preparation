@@ -1,8 +1,7 @@
-package Arrays;
-
+package Week01_Arrays;
 
 //TC: O(n) ; SC: O(1)
-public class FindPivotIndex {
+public class Q12_FindPivotIndex {
     public int pivotIndex(int[] nums) {
         int n = nums.length, sum = 0;
         for(int number : nums)

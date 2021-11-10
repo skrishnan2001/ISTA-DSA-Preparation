@@ -1,4 +1,4 @@
-package Assignemnt1;
+package Week00_JavaBasics;
 
 /*
 Find whether the given number x present in the array or not

@@ -1,9 +1,9 @@
-package Stacks;
+package Week01_Arrays;
 
 //TC: O(n); SC : O(n)
 
 import java.util.*;
-public class ValidParantheses {
+public class Q8_ValidParantheses {
     public boolean isValid(String s) {
         Map<Character, Character> map = new HashMap<>();
         Stack<Character> st = new Stack<>();

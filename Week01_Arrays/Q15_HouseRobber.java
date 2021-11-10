@@ -1,7 +1,7 @@
-package Arrays;
+package Week01_Arrays;
 
 //TC: O(n); SC: O(1)
-public class HouseRobber {
+public class Q15_HouseRobber {
     public int rob(int[] nums) {
         int n = nums.length;
         if (n == 1)

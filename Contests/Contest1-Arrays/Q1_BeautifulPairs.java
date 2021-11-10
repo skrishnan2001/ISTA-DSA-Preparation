@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class BeautifulPairs {
+public class Q1_BeautifulPairs {
     public static int beautifulPairs(List<Integer> A, List<Integer> B) {
         Map<Integer, Integer> a = new HashMap<>();
         Map<Integer, Integer> b = new HashMap<>();

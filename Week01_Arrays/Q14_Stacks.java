@@ -1,4 +1,4 @@
-package Stacks;
+package Week01_Arrays;
 
 import java.util.*;
 
@@ -28,7 +28,7 @@ class TwoStack {
 				int stack_no = sc.nextInt();
 				int QueryType = sc.nextInt();
 
-				Stacks g = new Stacks();
+				Q14_Stacks g = new Q14_Stacks();
 
 				if (QueryType == 1) {
 					int a = sc.nextInt();
@@ -63,7 +63,7 @@ class TwoStack {
  */
 
 // TC: All methods have O(1)
-public class Stacks {
+public class Q14_Stacks {
 	// Function to push an integer into the stack1.
 	void push1(int x, TwoStack sq) {
 		if (sq.top1 < sq.top2) {

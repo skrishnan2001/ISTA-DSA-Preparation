@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class AVeryBigSum {
+public class Q3_AVeryBigSum {
     public static long aVeryBigSum(List<Long> ar) {
         long sum = 0;
             for(long i : ar)

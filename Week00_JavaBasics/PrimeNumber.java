@@ -1,4 +1,4 @@
-package Assignemnt1;
+package Week00_JavaBasics;
 
 import java.io.*;
 
