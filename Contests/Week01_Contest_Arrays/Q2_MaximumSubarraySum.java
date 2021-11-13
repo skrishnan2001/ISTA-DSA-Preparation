@@ -1,3 +1,4 @@
+package Contests.Week01_Contest_Arrays;
 //TC: O(nlogn) | SC: O(n)
 //Problem link: https://www.hackerrank.com/challenges/maximum-subarray-sum/problem
 //YT sol: https://youtu.be/u_ft5jCDZXk

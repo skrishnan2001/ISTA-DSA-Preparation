@@ -1,3 +1,5 @@
+package Contests.Week01_Contest_Arrays;
+
 //TC: O(n) | SC: O(n)
 //Problem link: https://www.hackerrank.com/challenges/beautiful-pairs/problem
 

@@ -1,3 +1,5 @@
+package Contests.Week01_Contest_Arrays;
+
 //TC: O(n) | SC: O(1)
 //Problem link: https://www.hackerrank.com/challenges/a-very-big-sum/problem
 
