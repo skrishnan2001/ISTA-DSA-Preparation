@@ -1,5 +1,7 @@
 package Week02_Arrays;
 
+//TC: O(log n) | SC: O(1)
+
 public class Q1_SearchInRotatedSortedArray {
     int search(int A[], int l, int h, int key)
     {
